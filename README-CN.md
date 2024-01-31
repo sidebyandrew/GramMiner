@@ -10,7 +10,7 @@ For English , read [README.md](README.md)
 如果你是Window或者Linux等环境，你需要自己编译 TON 源代码，并将其中的 ton/build/crypto/pow-miner 文件复制到本项目中。
 TON的编译过程见：https://github.com/ton-blockchain/ton
 
-注意，一定要用 '--recursive' 去 clone 代码，因为其中有submodule。
+注意，一定要用 '--recursive' 去 clone ton 的源代码，因为其中有submodule。
 ```git clone --recursive  git@github.com:ton-blockchain/ton.git```
 
 ## 二、运行
