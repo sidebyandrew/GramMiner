@@ -1,0 +1,6 @@
+.env
+.idea
+bocs
+node_modules
+**/.DS_Store
+target/
