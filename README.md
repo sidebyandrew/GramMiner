@@ -14,17 +14,17 @@ TON的编译过程见：https://github.com/ton-blockchain/ton
 
 ## 二、运行
 
-1. 新建一个 .env 文件，输入 MNEMONIC='a b c d e f g...'，其中a b c 为你的助记词
-2. 安装依赖，命令行输入  yarn install
-3. 执行脚本  yarn run start
+1. 首先, 需要安装 Nodejs https://nodejs.org/en ，已安装则下一步
+2. 新建一个 .env 文件，输入 MNEMONIC='a b c d e f g...'，其中a b c 为你的助记词
+3. 安装依赖，命令行输入  yarn install
+4. 执行脚本  yarn run start
 
 
 ## 三、问题
 
-1. 首先, 需要安装 Nodejs https://nodejs.org/en
-2. 本脚本只在我的 MacBook 环境测试，Window或者Linux等环境没有验证，理论上可行，
-3. 执行脚本异常，再试几次
-4. 如果还有问题，Telegram 联系 @andrew_tonx (不保证有空回答)
+1. 本脚本只在我的 MacBook 环境测试，Window或者Linux等环境没有验证，理论上可行，
+2. 执行脚本异常，再试几次
+3. 如果还有问题，Telegram 联系 @andrew_tonx (不保证有空回答)
 
 
 ## 四、答谢
