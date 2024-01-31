@@ -1,6 +1,6 @@
 # Instructions
 
-中文版本，请阅读[README-CN.md](README-CN.md)
+中文版本，请阅读[README.md](README.md)
 
 ## I，Prerequisites
 

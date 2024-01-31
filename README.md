@@ -1,6 +1,6 @@
 # 操作指南
 
-For English , read [README.md](README.md)
+For English , read [README-EN.md](README-EN.md)
 
 
 ## 一，前提条件
