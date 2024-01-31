@@ -11,6 +11,8 @@ you need to compile the TON source code and copy the file 'ton/build/crypto/pow-
 
 TON Source Code：https://github.com/ton-blockchain/ton
 
+Notice: make sure to add '--recursive' when clone code, because there are submodules inside.
+```git clone --recursive  git@github.com:ton-blockchain/ton.git```
 
 ## II、Run
 
