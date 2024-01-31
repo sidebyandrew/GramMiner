@@ -21,9 +21,10 @@ TON的编译过程见：https://github.com/ton-blockchain/ton
 
 ## 三、问题
 
-1. 本脚本只在我的 MacBook 环境测试，Window或者Linux等环境没有验证，理论上可行，
-2. 执行脚本异常，再试几次
-3. 如果还有问题，Telegram 联系 @andrew_tonx (不保证有空回答)
+1. 首先, 需要安装 Nodejs https://nodejs.org/en
+2. 本脚本只在我的 MacBook 环境测试，Window或者Linux等环境没有验证，理论上可行，
+3. 执行脚本异常，再试几次
+4. 如果还有问题，Telegram 联系 @andrew_tonx (不保证有空回答)
 
 
 ## 四、答谢
