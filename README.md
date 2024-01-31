@@ -5,7 +5,7 @@ For English , read [README-EN.md](README-EN.md)
 
 ## 一，前提条件
 
-本代码在 MacBook 环境测试成功。
+本代码在 MacBook 环境测试成功。（并且我的 CPU 是 Intel ，如果你是M1，则也要自己编译。）
 
 如果你是Window或者Linux等环境，你需要自己编译 TON 源代码，并将其中的 ton/build/crypto/pow-miner 文件复制到本项目中。
 TON的编译过程见：https://github.com/ton-blockchain/ton

@@ -5,6 +5,7 @@
 ## I，Prerequisites
 
 This code was successfully tested in my MacBook environment.
+(And my CPU is Intel, if you have M1 CPU, you have to compile pow-miner yourself.)
 
 If you are in a Windows or Linux environment, 
 you need to compile the TON source code and copy the file 'ton/build/crypto/pow-miner' into this project.
